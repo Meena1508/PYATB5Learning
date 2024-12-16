@@ -1,0 +1,12 @@
+# Ternary operator
+# if else statement
+
+x=10
+y=20
+
+# print("x is greater" if x>y else "y is greater")
+
+if(x>y):
+ print("X is greater than y")
+else:
+ print("y is greater than x")
